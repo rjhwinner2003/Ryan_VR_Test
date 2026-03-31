@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.eyetrackingsoftwareeducation.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\wur\\VR-Tracking\\openvr-master\\samples\\Ryan_VR_Test\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Eye Tracking Software - Education [Testing]"
+        }
+      }
+    }
+  ]
+}

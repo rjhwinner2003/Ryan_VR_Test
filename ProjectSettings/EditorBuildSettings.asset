@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 14ade44c33788884fb173d3f6d98baab
+  - enabled: 1
+    path: Assets/Scenes/Test 1.unity
+    guid: 8e0aee111903bb24b87543be0280bdf8
+  - enabled: 1
+    path: Assets/Scenes/Test 2.unity
+    guid: 34b7b177c6801dc4086cd8288936c7a0
+  - enabled: 1
+    path: Assets/Scenes/Test 3.unity
+    guid: da8790eab5c15194bbad3ab9f7c4775e
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: 7d87b7f4699f6004daa4d1ca68f6cb8c
+  - enabled: 1
+    path: Assets/Scenes/Text.unity
+    guid: f0a89a866a28e2f46803416e916a8cf8
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2d7a5cba874a5b543a80120c92392675,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: efb63011b2e1e8f45b8a66d00ee2ed65,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 0eb1f978969eda540a6df3e12ed2ed42,
+      type: 2}
